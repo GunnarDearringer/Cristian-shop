@@ -1,1 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HOLY DEALS - Christian Affiliate Shop</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>HOLY DEALS</h1>
+    <p>Faith-filled finds for your Christian journey</p>
+  </header>
+
+  <nav>
+    <a href="#products">Products</a>
+    <a href="#verse">Verse of the Day</a>
+    <a href="#about">About</a>
+  </nav>
+
+  <section id="hero">
+    <h2>Equip Your Faith</h2>
+    <p>Curated Christian products to uplift your soul</p>
+    <a href="#products" class="button">Browse Deals</a>
+  </section>
+
+  <section id="products">
+    <h2>Featured Products</h2>
+    <div class="product-grid">
+      <div class="product-card">
+        <h3>ESV Study Bible</h3>
+        <a href="https://your-affiliate-link.com" target="_blank">Buy on Amazon</a>
+      </div>
+      <div class="product-card">
+        <h3>Christian T-Shirt</h3>
+        <a href="https://your-affiliate-link.com" target="_blank">Buy on Amazon</a>
+      </div>
+      <div class="product-card">
+        <h3>Devotional Journal</h3>
+        <a href="https://your-affiliate-link.com" target="_blank">Buy on Amazon</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="verse">
+    <h2>Verse of the Day</h2>
+    <blockquote>
+      <p>"Trust in the Lord with all your heart and lean not on your own understanding."</p>
+      <cite>– Proverbs 3:5</cite>
+    </blockquote>
+  </section>
+
+  <section id="about">
+    <h2>About HOLY DEALS</h2>
+    <p>We recommend faith-inspired products that support your spiritual walk while also supporting Christian creators and ministries.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 HOLY DEALS. All rights reserved.</p>
+  </footer>
+</body>
+</html>
 
